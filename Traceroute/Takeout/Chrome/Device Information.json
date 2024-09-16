@@ -1,0 +1,51 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "Chrome MAC 127.0.6533.119 (bdef6783a05f0b3f885591e7d2c7b2aec1a89dea-refs/branch-heads/6533@{#1999}) channel(stable)",
+            "device_type": "TYPE_MAC",
+            "chrome_version_info": {"version_number": "127.0.6533.119"},
+            "signin_scoped_device_id": "eb39c1fa-d9bc-4aa5-9810-de6b6ae71348",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "JYOOjFXpSb7lamKqKBtIIQ==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_DESKTOP",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {
+                        "instance_id_token": "dymu49tZPLs:APA91bEAb0teWo1o20vybpksGf7dYcxGq3L695a85m59obsAbtid21KRX_PjwPYgaklmQiHbHZXMPGSNMIdwLMDK0_aqPIkTpJPQ5tpBi-A-U6nPEX8F3WXmjzXJxNF9p2fpnS5gKFJf",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    45873,
+                                    63951,
+                                    31729,
+                                    1164238,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    41210,
+                                    48119,
+                                    88610,
+                                    50119,
+                                    48364,
+                                    103656,
+                                    96159,
+                                    150251,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    673225,
+                                    1004874,
+                                    895275,
+                                    1141935,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_MAC",
+            "last_updated_timestamp": 1726494717568,
+            "model": "MacBookPro15,2",
+            "client_name": "qianrudeMacBook-Pro",
+            "chrome_version": "127.0.6533.119"
+}
+    ]
+}

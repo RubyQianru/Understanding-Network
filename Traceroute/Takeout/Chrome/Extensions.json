@@ -1,0 +1,52 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "kbfnbcaeplbcioakkpcpgfkobkghlhen",
+            "version": "14.1195.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "bfnaelmomeimhlpmgjnjophhpkkoljpa",
+            "version": "24.16.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "ggaabchcecdbomdcnbahdfddfikjmphe",
+            "version": "3.0.1",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "pbanhockgagggenencehbnadejlgchfc",
+            "version": "2.0.33",
+            "enabled": true
+}
+    ],
+    "Extension Settings": [
+        {
+            "extension_id": "pbanhockgagggenencehbnadejlgchfc",
+            "value": "\"51px\"",
+            "key": "simplifyButtonHeight"
+},
+        {
+            "extension_id": "ggaabchcecdbomdcnbahdfddfikjmphe",
+            "value": "{\"clickIndicatorColor\":\"#3f51b5\",\"clickIndicatorSize\":40,\"colorScheme\":\"dark\",\"cursorColor\":\"#3f51b5\",\"cursorSize\":12,\"defaultBrowserAction\":\"popup\",\"disableRequestRating\":false,\"downloadFilename\":\"chrome-capture_yyyy-mm-dd.gif\",\"downloadsSubfolderName\":\"captures/$date\",\"drawingColor\":\"#3f51b5\",\"drawingSize\":12,\"editor\":{\"compressGif\":false,\"drawSize\":5,\"fillColor\":\"red\",\"fontFamily\":\"Helvetica\",\"frameSelectorOpen\":true,\"isUploadedFilePublic\":true,\"playbackSpeed\":\"normal\",\"premiumOptionsOpen\":false,\"saveBy\":\"download\"},\"enableDrawing\":false,\"enableNotifications\":false,\"fileAccess\":\"editor\",\"frames\":10,\"hasSeenMaxTimeRecordingInfo\":true,\"maxLength\":12,\"maxRecordingDimensionSize\":1000,\"quality\":8,\"rating\":null,\"recorderLogic\":\"normal\",\"recordingsTaken\":20,\"requestRatingThreshold\":23,\"saveAs\":\"gif\",\"saveAsScreenshot\":\"png\",\"saveLocation\":\"downloads\",\"screenshotsTaken\":0,\"showClickIndicator\":false,\"showCursor\":false,\"skipFullscreenInfoModal\":true}",
+            "key": "settings"
+}
+    ]
+}

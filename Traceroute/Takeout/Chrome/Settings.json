@@ -1,0 +1,390 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{}"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en\""
+},
+        {
+            "name": "translate_allowlists",
+            "value": "{}"
+},
+        {
+            "name": "net.network_prediction_options",
+            "value": "0"
+},
+        {
+            "name": "autofill.last_version_deduped",
+            "value": "127"
+},
+        {
+            "name": "custom_links.list",
+            "value": "[{\"isMostVisited\":true,\"title\":\"GitHub\",\"url\":\"https://github.com/SimplifyJobs/New-Grad-Positions\"},{\"isMostVisited\":true,\"title\":\"GitHub\",\"url\":\"https://github.com/\"},{\"isMostVisited\":true,\"title\":\"Sign in\",\"url\":\"https://accounts.google.com/o/oauth2/auth?login_hint=&prompt=login&response_type=code&redirect_uri=https%3A%2F%2Fauth0.openai.com%2Flogin%2Fcallback&scope=email%20profile&state=OnlZNbTbU3E_iX4n-Kg5JeCZoGnzr39r&client_id=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com\"},{\"isMostVisited\":true,\"title\":\"New York University Mail\",\"url\":\"https://mail.google.com/mail/mu/mp/765/#tl/Inbox\"},{\"isMostVisited\":true,\"title\":\"Albert Login\",\"url\":\"https://albert.nyu.edu/\"},{\"isMostVisited\":true,\"title\":\"NYU Login\",\"url\":\"https://docs.google.com/forms/d/e/1FAIpQLSefsXpI4i0TszK2STPkh-D9SvL8gTd2b9GazpXa7HqqLbiuRg/closedform\"},{\"isMostVisited\":true,\"title\":\"Home\",\"url\":\"https://wellfleetstudent.com/?hidden=new%20york%20university\"},{\"isMostVisited\":true,\"title\":\"(5) Pre\",\"url\":\"https://www.notion.so/developforgood/Pre-Client-Internal-meeting-768fcc1691ff4caa88ef0d9cefe745b3\"}]"
+},
+        {
+            "name": "bookmark_bar.show_on_all_tabs",
+            "value": "false"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13351124665142938\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQqD2ctgAnSVZVZqNGjN+Eu1KxTQJHWmCF8lliLEFn76hRANCAAQePP4bdzr0/shYP5wfooDIzV4tPJDD/4ZuNPdIoEPHuF/qRovHqjDt805+0xsqBQqddDI4cbZpWYoG+CeZ/fyT\"}"
+},
+        {
+            "name": "intl.selected_languages",
+            "value": "\"en\""
+},
+        {
+            "name": "custom_links.initialized",
+            "value": "true"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{\"mac:Alt+C\":{\"command_name\":\"open_snipping_tool\",\"extension\":\"ggaabchcecdbomdcnbahdfddfikjmphe\",\"global\":false},\"mac:Alt+R\":{\"command_name\":\"record_tab\",\"extension\":\"ggaabchcecdbomdcnbahdfddfikjmphe\",\"global\":false},\"mac:Alt+S\":{\"command_name\":\"screenshot\",\"extension\":\"ggaabchcecdbomdcnbahdfddfikjmphe\",\"global\":false},\"mac:Alt+Shift+P\":{\"command_name\":\"_execute_action\",\"extension\":\"bfnaelmomeimhlpmgjnjophhpkkoljpa\",\"global\":false},\"mac:Alt+Shift+S\":{\"command_name\":\"full_webpage_screenshot\",\"extension\":\"ggaabchcecdbomdcnbahdfddfikjmphe\",\"global\":false}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{\"http://127.0.0.1:5500,*\":{\"last_modified\":\"13358029610479854\",\"setting\":1},\"http://127.0.0.1:5501,*\":{\"last_modified\":\"13358030397383391\",\"setting\":1}}"
+},
+        {
+            "name": "promos.ios_password_last_impression_timestamp",
+            "value": "\"13359474901776393\""
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"en\":0}"
+},
+        {
+            "name": "profile.content_settings.exceptions.local_fonts",
+            "value": "{}"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"en\":2}"
+},
+        {
+            "name": "promos.ios_password_impressions_counter",
+            "value": "2"
+},
+        {
+            "name": "translate_blocked_languages",
+            "value": "[\"zh-CN\",\"en\"]"
+},
+        {
+            "name": "profile.content_settings.exceptions.tracking_protection",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "toolbar.pinned_actions",
+            "value": "[]"
+},
+        {
+            "name": "profile.content_settings.exceptions.window_placement",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.anti_abuse",
+            "value": "{}"
+},
+        {
+            "name": "translate_site_blocklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+}
+    ],
+    "Priority Preferences": [
+        {"preference": {
+            "name": "credentials_enable_passwordalerts",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "credentials_enable_service",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "credentials_enable_autosignin",
+            "value": "true"
+}}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ],
+    "App Lists": [],
+    "Web Apps": [],
+    "Search Engines": [
+        {
+            "suggestions_url": "https://www.bing.com/osjson.aspx?query={searchTerms}&language={language}&PC=U316",
+            "image_url_post_params": "imageBin={google:imageThumbnailBase64}",
+            "favicon_url": "https://www.bing.com/sa/simg/bing_p_rr_teal_min.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "image_url": "https://www.bing.com/images/detail/search?iss=sbiupload&FORM=CHROMI#enterInsights",
+            "starter_pack_id": 0,
+            "url": "https://www.bing.com/search?q={searchTerms}&PC=U316&FORM=CHROMN",
+            "new_tab_url": "https://www.bing.com/chrome/newtab",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000003",
+            "short_name": "Microsoft Bing",
+            "keyword": "bing.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 3,
+            "last_modified": 13367207139015444
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://github.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13351274838981182,
+            "starter_pack_id": 0,
+            "url": "https://github.com/search?q={searchTerms}&ref=opensearch",
+            "new_tab_url": "",
+            "originating_url": "https://github.com/opensearch.xml",
+            "sync_guid": "7831709c-e211-425f-8d77-ca9745a73046",
+            "short_name": "GitHub",
+            "keyword": "github.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13351274838981182
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://wellfleetstudent.com/wp-content/uploads/2019/07/wellfleet-student-icon-150x150.png",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13368303137371645,
+            "starter_pack_id": 0,
+            "url": "https://wellfleetstudent.com/?hidden={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "7130dbfc-d8e5-40c9-9d91-516fdd9a2f76",
+            "short_name": "wellfleetstudent.com",
+            "keyword": "wellfleetstudent.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13368303137371645
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13351057779200882,
+            "starter_pack_id": 2,
+            "url": "chrome://history/?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "ec205736-edd7-4022-a9a3-b431fc000002",
+            "short_name": "历史记录",
+            "keyword": "@历史记录",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13361288509745668
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://www.gstatic.com/devrel-devsite/prod/vdff1e83c9bc1af90871ad39a4afed3d4347394671ac5f3c005d4578bbf41edc2/firebase/images/favicon.png",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13356632968793115,
+            "starter_pack_id": 0,
+            "url": "https://firebase.google.com/s/results?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "https://firebase.google.com/s/opensearch.xml?hl=zh-cn",
+            "sync_guid": "4d1a75b0-27dc-44d6-96d9-0bb5eda6e768",
+            "short_name": "Firebase",
+            "keyword": "firebase.google.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13356632968793116
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13351057779200797,
+            "starter_pack_id": 1,
+            "url": "chrome://bookmarks/?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "ec205736-edd7-4022-a9a3-b431fc000001",
+            "short_name": "书签",
+            "keyword": "@书签",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13361288509745638
+},
+        {
+            "suggestions_url": "https://sugg.sogou.com/sugg/ajaj_json.jsp?type=addrbar&key={searchTerms}&ie={inputEncoding}&from=google",
+            "favicon_url": "https://www.sogou.com/images/logo/old/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "starter_pack_id": 0,
+            "url": "https://www.sogou.com/web?ie={inputEncoding}&query={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000056",
+            "short_name": "搜狗",
+            "keyword": "sogou.com",
+            "input_encodings": "UTF-8",
+            "alternate_urls": ["https://m.sogou.com/web/{google:pathWildcard}?ie={inputEncoding}&keyword={searchTerms}"],
+            "prepopulate_id": 56,
+            "last_modified": 13367207139015463
+},
+        {
+            "suggestions_url": "https://sug.so.360.cn/suggest?encodein={inputEncoding}&encodeout={outputEncoding}&format=opensearch&word={searchTerms}",
+            "favicon_url": "https://www.so.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "starter_pack_id": 0,
+            "url": "https://www.so.com/s?ie={inputEncoding}&q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000088",
+            "short_name": "360",
+            "keyword": "so.com",
+            "input_encodings": "UTF-8",
+            "alternate_urls": [
+                        "https://m.so.com/s?ie={inputEncoding}&q={searchTerms}",
+                        "https://m.so.com/index.php?ie={inputEncoding}&q={searchTerms}"
+            ],
+            "prepopulate_id": 88,
+            "last_modified": 13367207139015469
+},
+        {
+            "suggestions_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client={google:suggestClient}&gs_ri={google:suggestRid}&xssi=t&q={searchTerms}&{google:inputType}{google:omniboxFocusType}{google:cursorPosition}{google:currentPageUrl}{google:pageClassification}{google:clientCacheTimeToLive}{google:searchVersion}{google:sessionToken}{google:prefetchQuery}sugkey={google:suggestAPIKeyParameter}",
+            "image_url_post_params": "encoded_image={google:imageThumbnail},image_url={google:imageURL},sbisrc={google:imageSearchSource},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight},processed_image_dimensions={google:processedImageDimensions}",
+            "favicon_url": "https://www.google.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "image_url": "{google:baseSearchByImageURL}upload",
+            "starter_pack_id": 0,
+            "url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:language}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000001",
+            "short_name": "Google",
+            "keyword": "google.com",
+            "input_encodings": "UTF-8",
+            "alternate_urls": [
+                        "{google:baseURL}#q={searchTerms}",
+                        "{google:baseURL}search#q={searchTerms}",
+                        "{google:baseURL}webhp#q={searchTerms}",
+                        "{google:baseURL}s#q={searchTerms}",
+                        "{google:baseURL}s?q={searchTerms}"
+            ],
+            "prepopulate_id": 1,
+            "last_modified": 0
+},
+        {
+            "suggestions_url": "https://suggestion.baidu.com/su?wd={searchTerms}&action=opensearch&ie={inputEncoding}",
+            "favicon_url": "https://www.baidu.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "starter_pack_id": 0,
+            "url": "https://www.baidu.com/#ie={inputEncoding}&wd={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000021",
+            "short_name": "百度",
+            "keyword": "baidu.com",
+            "input_encodings": "UTF-8",
+            "alternate_urls": [
+                        "https://www.baidu.com/s?ie={inputEncoding}&wd={searchTerms}",
+                        "https://www.baidu.com/s?ie={inputEncoding}&word={searchTerms}",
+                        "https://www.baidu.com/{google:pathWildcard}/s?ie={inputEncoding}&word={searchTerms}"
+            ],
+            "prepopulate_id": 21,
+            "last_modified": 13367207139015435
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13351057779200888,
+            "starter_pack_id": 3,
+            "url": "chrome://tabs/?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "ec205736-edd7-4022-a9a3-b431fc000003",
+            "short_name": "标签页",
+            "keyword": "@标签页",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13361288509745669
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13355549877685320,
+            "starter_pack_id": 4,
+            "url": "https://gemini.google.com/app?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "ec205736-edd7-4022-a9a3-b431fc000004",
+            "short_name": "Gemini",
+            "keyword": "@gemini",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13361288509745671
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://www.perplexity.ai/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13364485770160397,
+            "starter_pack_id": 0,
+            "url": "https://www.perplexity.ai/search?s=o&q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "https://www.perplexity.ai/opensearch.xml",
+            "sync_guid": "011f363d-2002-4cfc-a14a-fa963b1b7e86",
+            "short_name": "Perplexity",
+            "keyword": "perplexity.ai",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13364485770160397
+}
+    ]
+}
