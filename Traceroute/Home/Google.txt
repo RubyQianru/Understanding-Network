@@ -1,0 +1,16 @@
+traceroute to www.google.com (142.251.40.164), 64 hops max, 52 byte packets
+ 1  cr1000a (192.168.1.1)  9.154 ms  2.049 ms  1.930 ms
+ 2  lo0-100.nycmny-vfttp-415.verizon-gni.net (68.132.221.1)  4.764 ms  3.293 ms  4.396 ms
+ 3  b3415.nycmny-lcr-21.verizon-gni.net (100.41.131.16)  10.285 ms
+    b3415.nycmny-lcr-22.verizon-gni.net (100.41.197.238)  8.984 ms
+    b3415.nycmny-lcr-21.verizon-gni.net (100.41.131.16)  9.483 ms
+ 4  * * *
+ 5  customer.alter.net (65.208.85.150)  71.959 ms
+    customer.alter.net (204.148.5.98)  7.451 ms  7.675 ms
+ 6  * * *
+ 7  142.251.60.228 (142.251.60.228)  164.036 ms
+    142.251.65.112 (142.251.65.112)  8.596 ms
+    142.251.65.110 (142.251.65.110)  6.858 ms
+ 8  192.178.106.20 (192.178.106.20)  7.919 ms
+    209.85.253.143 (209.85.253.143)  8.183 ms
+    lga25s81-in-f4.1e100.net (142.251.40.164)  35.475 ms
