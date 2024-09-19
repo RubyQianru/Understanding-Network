@@ -1,0 +1,27 @@
+traceroute to github.com (140.82.112.3), 64 hops max, 52 byte packets
+ 1  wlangwc-7e12-vl1533.wireless.net.nyu.edu (10.18.128.2)  3.303 ms  2.110 ms  2.133 ms
+ 2  coregwc-te7-8-vl901-wlangwc-7e12.net.nyu.edu (10.254.6.44)  3.088 ms
+    coregwd-te7-8-vl901-wlangwc-7e12.net.nyu.edu (10.254.8.44)  2.539 ms  2.091 ms
+ 3  nyugwb-fo1-18-coregwc.net.nyu.edu (10.254.6.51)  2.471 ms  2.101 ms
+    nyugwb-fo2-18-coregwd.net.nyu.edu (10.254.8.51)  2.609 ms
+ 4  ngfw-palo-vl201.net.nyu.edu (10.254.30.246)  2.920 ms  2.843 ms  3.786 ms
+ 5  nyugwa-vl3090.net.nyu.edu (128.122.254.253)  3.243 ms  2.887 ms  4.427 ms
+ 6  vl3000-nyunatb.net.nyu.edu (10.254.30.70)  3.366 ms  2.918 ms  3.022 ms
+ 7  vl3001-nyugwa.net.nyu.edu (192.76.177.66)  3.162 ms  2.794 ms  3.329 ms
+ 8  dmzgwd-e13-1-nyugwa.net.nyu.edu (10.254.255.80)  2.806 ms
+    dmzgwc-e13-1-nyugwa.net.nyu.edu (10.254.255.78)  3.707 ms  3.144 ms
+ 9  10.254.255.109 (10.254.255.109)  2.950 ms
+    extgwc-eth11-1-dmzgwc-eth7-1.net.nyu.edu (10.254.255.107)  3.108 ms
+    10.254.255.109 (10.254.255.109)  2.872 ms
+10  et-2-0-21.edge2.newyork6.level3.net (4.30.244.201)  3.490 ms  5.964 ms  4.547 ms
+11  ae71.zayo.ter1.lga5.us.zip.zayo.com (64.125.15.96)  4.143 ms  26.450 ms  3.480 ms
+12  * * *
+13  * * *
+14  * * *
+15  209.66.120.181.ipyx-243981-004-zyo.zip.zayo.com (209.66.120.181)  10.067 ms  10.567 ms  9.923 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *

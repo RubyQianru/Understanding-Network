@@ -1,0 +1,13 @@
+traceroute to nyu.edu (216.165.61.24), 64 hops max, 52 byte packets
+ 1  wlangwc-7e12-vl1533.wireless.net.nyu.edu (10.18.128.2)  3.603 ms  2.340 ms  2.184 ms
+ 2  coregwc-te7-8-vl901-wlangwc-7e12.net.nyu.edu (10.254.6.44)  1.985 ms
+    coregwd-te7-8-vl901-wlangwc-7e12.net.nyu.edu (10.254.8.44)  2.354 ms  2.141 ms
+ 3  rdcgwa-eth28-1-903-coregwc-fo2-0-14-903-p2p.net.nyu.edu (10.254.6.121)  2.294 ms  2.382 ms
+    rdcgwb-eth28-1-904-coregwd-fo2-0-14-904-p2p.net.nyu.edu (10.254.8.121)  2.128 ms
+ 4  v3100-blf201-rdcgwa.net.nyu.edu (10.40.1.0)  2.550 ms  3.053 ms
+    v3100-blf202-rdcgwa.net.nyu.edu (10.40.1.6)  2.938 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
