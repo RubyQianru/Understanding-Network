@@ -44,11 +44,11 @@ Released at (425.8460693359375, 548.6338500976562)
 ```python
 if x > 720:
         sock.send(b'r')  # r = right
-    elif x <= 720:
+elif x <= 720:
         sock.send(b'l')  # l = left
-    if y > 450:
+if y > 450:
         sock.send(b'd')  # d = down (inverted y-axis)
-    elif y <= 450:
+elif y <= 450:
         sock.send(b'u')  # u = up (inverted y-axis)
 ```
 
