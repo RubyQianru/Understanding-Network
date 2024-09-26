@@ -1,6 +1,5 @@
-import mouse # mouse library
-import socket # TCP socket connection
-# nc -l netcat listen
+from pynput import mouse
+import socket 
 
 # server 
 HOST = '192.168.1.165'  
@@ -9,20 +8,29 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 sock.connect((HOST, PORT))
 
 def on_move(x, y):
-    if x > 0:
+    print('Pointer moved to {0}'.format(
+        (x, y)))
+    if x > 720:
         sock.send(b'r')  # r = right
-    elif x < 0:
+    elif x <= 720:
         sock.send(b'l')  # l = left
-    if y > 0:
-        sock.send(b'u')  # u = up
-    elif y < 0:
-        sock.send(b'd')  # d = down
+    if y > 450:
+        sock.send(b'd')  # d = down (inverted y-axis)
+    elif y <= 450:
+        sock.send(b'u')  # u = up (inverted y-axis)
 
 def on_click(x, y, button, pressed):
-    if pressed and button == mouse.RIGHT:
-        sock.send(b'x')  
+    print('{0} at {1}'.format(
+        'Pressed' if pressed else 'Released',
+        (x, y)))
+    if not pressed:
+        # Stop listener
+        return False
 
-mouse.on_move(on_move)
-mouse.on_click(on_click)
+# Collect events until released
+with mouse.Listener(
+        on_move=on_move,
+        on_click=on_click,
+        ) as listener:
+    listener.join()
 
-mouse.wait()
