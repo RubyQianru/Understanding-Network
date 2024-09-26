@@ -8,8 +8,7 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 sock.connect((HOST, PORT))
 
 def on_move(x, y):
-    print('Pointer moved to {0}'.format(
-        (x, y)))
+    print('Pointer moved to {0}'.format((x, y)))
     if x > 720:
         sock.send(b'r')  # r = right
     elif x <= 720:
