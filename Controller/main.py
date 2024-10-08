@@ -2,13 +2,15 @@ from pynput import mouse
 import socket 
 
 # server 
-HOST = '192.168.1.165'  
+HOST = '10.18.165.133'  
 PORT = 8080
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 sock.connect((HOST, PORT))
 
 def on_move(x, y):
+
     print('Pointer moved to {0}'.format((x, y)))
+
     if x > 720:
         sock.send(b'r')  # r = right
     elif x <= 720:
