@@ -63,9 +63,21 @@ python3 main.py
 * GitHub Repository: [Link](https://github.com/RubyQianru/Rubyqianru-Web-App)
 * Website Preview: [RubyQianru](https://www.rubyqianru.com)
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</a>
+
 ### Backend Development
 * GitHub Repository: [Link](https://github.com/RubyQianru/Rubyqianru-Web-Server)
 * API docs Preview: [Swagger UI](http://192.81.208.56/docs#/)
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,python,mongodb,postgresql" />
+</a>
+
 ### CI/CD
 * GitHub Repository: [Link](https://github.com/RubyQianru/Scheduled-Stock-Price-Scraper)
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins" />
+</a>
