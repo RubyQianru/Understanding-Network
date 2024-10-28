@@ -59,4 +59,13 @@ python3 main.py
 ```
 
 ## HTTP
-[RubyQianru](https://www.rubyqianru.com)
+### Frontend Development
+* GitHub Repository: [Link](https://github.com/RubyQianru/Rubyqianru-Web-App)
+* Website Preview: [RubyQianru](https://www.rubyqianru.com)
+
+### Backend Development
+* GitHub Repository: [Link](https://github.com/RubyQianru/Rubyqianru-Web-Server)
+* API docs Preview: [Swagger UI](http://192.81.208.56/docs#/)
+
+### CI/CD
+* GitHub Repository: [Link](https://github.com/RubyQianru/Scheduled-Stock-Price-Scraper)
